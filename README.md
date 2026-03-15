@@ -93,6 +93,14 @@ To become a **skilled QA Automation Engineer** who builds reliable automation fr
 
 # 📫 Connect With Me
 
+💼 **LinkedIn**  
+https://www.linkedin.com/in/karthik-s-772930248/
+
+📧 **Email**  
+karthik.sivakumar004@gmail.com
+
+# 📫 Connect With Me
+
 💼 GitHub  
 https://github.com/Karthik-0304
 
