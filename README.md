@@ -48,10 +48,10 @@
 
 I'm a passionate **QA Automation Engineer** focused on building **scalable, maintainable automation frameworks** that improve software quality and reduce manual testing effort.
 
-My work centers around **UI Automation**, **BDD Framework Design**, and **End-to-End Test Automation** — primarily using Java, Selenium WebDriver, and Cucumber. I enjoy turning complex test scenarios into clean, reusable, and readable automation suites.
+My work centers around **UI Automation**, **API Testing**, **BDD Framework Design**, and **End-to-End Test Automation** — primarily using Java, Selenium WebDriver, and Cucumber. I enjoy turning complex test scenarios into clean, reusable, and readable automation suites.
 
 - 🔭 Currently building automation frameworks for real-world e-commerce and enterprise web apps
-- 🌱 Actively learning **API Automation with RestAssured**, **CI/CD pipelines**, and **Gen AI for Testing**
+- 🌱 Actively learning **Playwright**, **CI/CD pipelines**, and **AI Testing**
 - 🎯 Goal: Become a skilled QA Automation Engineer who ships reliable, high-quality software
 - 📍 Based in **India**
 
@@ -79,7 +79,7 @@ My work centers around **UI Automation**, **BDD Framework Design**, and **End-to
 
 ### 📚 Testing Knowledge
 `Manual Testing` `Test Case Design` `Bug Life Cycle` `Smoke Testing` `Sanity Testing`
-`Regression Testing` `Functional Testing` `BDD` `Page Object Model` `CI/CD`
+`Regression Testing` `Functional Testing` `API Testing` `BDD` `Page Object Model` `CI/CD`
 
 ---
 
@@ -87,6 +87,7 @@ My work centers around **UI Automation**, **BDD Framework Design**, and **End-to
 
 | Project | Description | Stack |
 |---|---|---|
+| 🛒 [Saucedemo Selenium Framework](https://github.com/Karthik-0304/saucedemo-selenium-java-framework) | Enterprise UI framework with Allure reporting & custom listeners | Java · Selenium 4 · TestNG · Maven · Allure |
 | 🛒 [Ecommerce Automation Framework](https://github.com/Karthik-0304/Ecommerce-Automation-Framework) | Production-grade E2E framework with POM, BDD, CI/CD | Java · Selenium 4 · Cucumber · TestNG · GitHub Actions |
 | ✈️ [TripAdvisor BDD Automation](https://github.com/Karthik-0304/tripadvisor-bdd-automation) | BDD automation for search, filtering & navigation | Java · Selenium · Cucumber · TestNG |
 | 💰 [Price Comparison Framework](https://github.com/Karthik-0304/E-Commerce-Price-Comparison-Automation-Framework) | Multi-platform price data extraction & comparison | Java · Selenium · Maven |
