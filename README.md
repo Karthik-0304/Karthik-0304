@@ -1,12 +1,15 @@
 <div align="center">
 
+
 ```
+
 ██╗  ██╗ █████╗ ██████╗ ████████╗██╗  ██╗██╗██╗  ██╗
 ██║ ██╔╝██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║██║ ██╔╝
-█████╔╝ ███████║██████╔╝   ██║   ███████║██║█████╔╝ 
-██╔═██╗ ██╔══██║██╔══██╗   ██║   ██╔══██║██║██╔═██╗ 
-██║  ██╗██║  ██║██║  ██║   ██║   ██║  ██║██║██║  ██╗
+█████╔╝ ███████║██████╔╝   ██║   ███████║██║█████╔╝
+██╔═██╗ ██╔══██║██╔══██╗   ██║   ██╔══██║██║██╔═██╗
+██║  ██║██║  ██║██║  ██║   ██║   ██║  ██║██║██║  ██╗
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+
 ```
 
 # Karthik Sivakumar
@@ -48,10 +51,10 @@
 
 I'm a passionate **QA Automation Engineer** focused on building **scalable, maintainable automation frameworks** that improve software quality and reduce manual testing effort.
 
-My work centers around **UI Automation**, **API Testing**, **BDD Framework Design**, and **End-to-End Test Automation** — primarily using Java, Selenium WebDriver, and Cucumber. I enjoy turning complex test scenarios into clean, reusable, and readable automation suites.
+My work centers around **UI Automation**, **API Testing**, **BDD Framework Design**, and **End-to-End Test Automation** — primarily using Java, Selenium WebDriver, RestAssured, and Cucumber. I enjoy turning complex test scenarios into clean, reusable, and readable automation suites.
 
-- 🔭 Currently building automation frameworks for real-world e-commerce and enterprise web apps
-- 🌱 Actively learning **Playwright**, **CI/CD pipelines**, and **AI Testing**
+- 🔭 Currently building automation frameworks for real-world e-commerce, enterprise web apps, and robust REST APIs
+- 🌱 Actively learning **Playwright**, **Advanced CI/CD pipelines**, and **AI Testing**
 - 🎯 Goal: Become a skilled QA Automation Engineer who ships reliable, high-quality software
 - 📍 Based in **India**
 
@@ -66,10 +69,11 @@ My work centers around **UI Automation**, **API Testing**, **BDD Framework Desig
 
 ### 🧪 Automation & Testing
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-009639?style=flat-square&logo=apache-groovy&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![RestAssured](https://img.shields.io/badge/RestAssured-009639?style=flat-square)
+![Allure](https://img.shields.io/badge/Allure-005571?style=flat-square)
 
 ### 🛠 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -79,7 +83,7 @@ My work centers around **UI Automation**, **API Testing**, **BDD Framework Desig
 
 ### 📚 Testing Knowledge
 `Manual Testing` `Test Case Design` `Bug Life Cycle` `Smoke Testing` `Sanity Testing`
-`Regression Testing` `Functional Testing` `API Testing` `BDD` `Page Object Model` `CI/CD`
+`Regression Testing` `Functional Testing` `API Testing` `BDD` `Page Object Model` `CI/CD` `JSON Schema Validation`
 
 ---
 
@@ -87,6 +91,7 @@ My work centers around **UI Automation**, **API Testing**, **BDD Framework Desig
 
 | Project | Description | Stack |
 |---|---|---|
+| ⚡ [REST Assured API Framework](https://github.com/Karthik-0304/rest-assured-java-framework) | Modular API test framework with CRUD coverage, JSON schema validation & Allure CI/CD | Java · REST Assured · TestNG · Jackson · Allure · GitHub Actions |
 | 🛒 [Saucedemo Selenium Framework](https://github.com/Karthik-0304/saucedemo-selenium-java-framework) | Enterprise UI framework with Allure reporting & custom listeners | Java · Selenium 4 · TestNG · Maven · Allure |
 | 🛒 [Ecommerce Automation Framework](https://github.com/Karthik-0304/Ecommerce-Automation-Framework) | Production-grade E2E framework with POM, BDD, CI/CD | Java · Selenium 4 · Cucumber · TestNG · GitHub Actions |
 | ✈️ [TripAdvisor BDD Automation](https://github.com/Karthik-0304/tripadvisor-bdd-automation) | BDD automation for search, filtering & navigation | Java · Selenium · Cucumber · TestNG |
@@ -118,9 +123,9 @@ My work centers around **UI Automation**, **API Testing**, **BDD Framework Desig
 ## 📚 Currently Learning
 
 - 🤖 **Gen AI for Test Automation** — AI-powered test case generation & self-healing tests
-- 🌐 **API Automation** using RestAssured
-- ⚙️ **CI/CD Integration** — GitHub Actions · Jenkins
-- 🔬 **Advanced Selenium Framework Design**
+- ⚡ **Advanced API Automation & Microservices Testing**
+- ⚙️ **CI/CD Pipeline Optimization** — GitHub Actions · Jenkins
+- 🔬 **Advanced Selenium & Playwright Framework Design**
 - 🧮 **Java DSA**
 
 ---
@@ -147,3 +152,5 @@ My work centers around **UI Automation**, **API Testing**, **BDD Framework Desig
 
   ![Profile Views](https://komarev.com/ghpvc/?username=Karthik-0304&color=00D4FF&style=flat-square&label=Profile+Views)
 </div>
+
+```
